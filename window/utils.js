@@ -3,3 +3,4 @@ var utils = {
         console.log('request')
     }
 }
+var conflict = 'utils conflict'
